@@ -1,0 +1,13 @@
+env/
+__pycache__/
+*.pyc
+*.pyo
+.vscode/
+.idea/
+
+*.csv
+*.png
+*.html
+
+!Mall_Customers.csv
+!kmeans_clustering.py
